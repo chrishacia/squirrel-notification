@@ -1,0 +1,24 @@
+{
+  "name": "squirrel-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishacia/squirrel-notification.git"
+  },
+  "keywords": [
+    "reactjs",
+    "banner",
+    "notifications"
+  ],
+  "author": "Christopher Hacia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrishacia/squirrel-notification/issues"
+  },
+  "homepage": "https://github.com/chrishacia/squirrel-notification#readme"
+}
